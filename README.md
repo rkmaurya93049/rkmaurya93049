@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @rkmaurya93049
-- 👀 I’m interested in Machine Learning ...
-- 🌱 I’m currently learning Machine Learning...
-- 💞️ I’m looking to collaborate on ...
-- 
+Hi, I'm Raushan — I build modular, scalable ML systems that bridge Flutter/Dart frontends with Python/Flask/LangChain backends.  
+I love clean architecture, reproducible workflows, and developer-friendly design.  
+Remote-first from Chhapra, Bihar 🇮🇳 | Open to tech hubs across India.
 
-<!---
-rkmaurya93049/rkmaurya93049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech Stack
+- **Frontend:** Flutter, Dart  
+- **Backend:** Python, Flask, LangChain  
+- **ML/DL:** TensorFlow, Keras, Scikit-learn  
+- **DevOps:** Git, GitHub Actions, VS Code  
+- **Other:** API Integration, Output Parsing, Ensemble Learning
+
+
+🚀 Current Projects
+- 🧪 Binary Classification Optimization — pushing accuracy from 96% → 98%  
+- 🔄 GitHub Sync Automation — seamless code sync from VS Code  
+- 📦 Leaderboard Submission Formatter — reproducible indexing & metadata
+
+
+📚 Certifications
+- Generative AI  
+- Data Analysis with Python  
+- Copywriting for Developers
+
+
+
+📈 Goals
+- Architect feedback-aware ML pipelines  
+- Publish reproducible notebooks for the ML community  
+- Collaborate on scalable AI products with strong UX
